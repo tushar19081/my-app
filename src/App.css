@@ -1,0 +1,15 @@
+.dtt{
+   margin-left: 20px;
+}
+.batn{
+   background-color:#0d6efd;
+   border: #0d6efd;
+   color: white;
+   border-radius: 10px;
+   width: 13vw;
+   height: 2.5rem;
+}
+
+  /* #058e6c ---> backgroundColor
+     #065039 ---> border
+  */
